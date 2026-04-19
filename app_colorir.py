@@ -6,7 +6,7 @@ Dependências:
 
 Uso:
     python app_colorir.py
-    → abre automaticamente no navegador em http://localhost:7860
+    → abre automaticamente no navegador
 """
 
 import cv2
